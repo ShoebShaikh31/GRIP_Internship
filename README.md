@@ -12,4 +12,4 @@ A web application used to tranfer virtual money between multiple users and also 
 
 Flow : Home Page > View all customers > Select and View one customer > Transfer Money > Select customer to transfer to > View all Customers.
 
-Delpyed Link - https://shoebshaikh31.github.io/GRIP_Intership/SMS%20Banking%20System/
+Deployed Link - https://shoebshaikh31.github.io/GRIP_Internship/SMS%20Banking%20System/
